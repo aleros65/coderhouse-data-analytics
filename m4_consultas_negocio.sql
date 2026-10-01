@@ -58,3 +58,5 @@ SELECT
   END AS comparativa_promedio
 FROM ventas_mensuales
 ORDER BY mes;
+
+--Bloque de cierre no puedo realizarlo, todavía no logro instalar PgAdmin. Los demás puntos los fui realizando con ayuda de Ticher.
